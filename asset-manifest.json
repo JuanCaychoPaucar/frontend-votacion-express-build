@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/frontend-votacion-express-build/static/css/main.7335d3c2.chunk.css",
-    "main.js": "/frontend-votacion-express-build/static/js/main.8f5c0370.chunk.js",
-    "main.js.map": "/frontend-votacion-express-build/static/js/main.8f5c0370.chunk.js.map",
+    "main.js": "/frontend-votacion-express-build/static/js/main.599e2890.chunk.js",
+    "main.js.map": "/frontend-votacion-express-build/static/js/main.599e2890.chunk.js.map",
     "runtime-main.js": "/frontend-votacion-express-build/static/js/runtime-main.0c142010.js",
     "runtime-main.js.map": "/frontend-votacion-express-build/static/js/runtime-main.0c142010.js.map",
     "static/css/2.150d169a.chunk.css": "/frontend-votacion-express-build/static/css/2.150d169a.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.150d169a.chunk.css",
     "static/js/2.f89c2db0.chunk.js",
     "static/css/main.7335d3c2.chunk.css",
-    "static/js/main.8f5c0370.chunk.js"
+    "static/js/main.599e2890.chunk.js"
   ]
 }
